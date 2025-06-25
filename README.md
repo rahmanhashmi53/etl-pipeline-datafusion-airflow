@@ -16,4 +16,4 @@ The project aims to perform the following tasks:
 
 ## Architecture
 
-![Image](https://github.com/user-attachments/assets/de2c3281-88b8-4a47-855b-a5b724ef4e3b)
+![Image](https://github.com/user-attachments/assets/3b1461b0-2576-4f5e-922e-110e833363b5)
